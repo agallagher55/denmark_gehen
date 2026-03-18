@@ -15,7 +15,7 @@
 - **Tier:** World Elite (top WestJet co-brand card)
 - **Annual fee:** $139 CAD
 - **WestJet Rewards tier:** Teal (base tier)
-- **WestJet Rewards points balance:** 28,036 pts (as of March 2026)
+- **WestJet Rewards points balance:** 28,036.02 pts (as of March 2026)
 - **Points value:** 100 pts = $1 CAD in flight/vacation redemption
 
 ### Earn rates
@@ -31,8 +31,9 @@
 - ✅ Travel insurance package (trip cancellation, medical, etc.)
 
 ### Companion Voucher — Full Details
-**Type:** World Elite round-trip companion voucher  
+**Type:** World Elite round-trip companion voucher
 **Validity:** No blackout dates; must *book* before expiry, travel can occur after
+**Expiry date:** September 26, 2026
 
 **Companion base fare (international/Europe):**
 | Fare class | Companion flat fee |
@@ -131,7 +132,7 @@ Conversation reference: https://claude.ai/share/e6ad14f6-1780-40ac-8ab5-5c6db5c0
 ## 📝 Notes / To Fill In
 - [x] ~~Confirm which Wealthsimple card version~~ → **Visa Infinite Privilege** ✅
 - [ ] **Enroll in Visa Airport Companion Program** in Wealthsimple app before trip (required for lounge access)
-- [ ] Check companion voucher expiry date in your WestJet Rewards account
-- [ ] Check current WestJet points balance before booking
+- [x] ~~Check companion voucher expiry date~~ → **September 26, 2026** ✅
+- [x] ~~Check current WestJet points balance~~ → **28,036.02 pts** ✅
 - [ ] Confirm WestJet flight day of week for May 31 / Jun 10 schedule
 - [ ] Call WestJet contact centre if applying voucher to return leg (CPH → YHZ)
